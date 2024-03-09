@@ -1,6 +1,6 @@
 ## Description
 
-<p>CodeBox is an online community edition software that is widely used to test and display user-created code snippets in HTML, CSS, and JavaScript.</p>
+<p>CodeBox is an online community edition software that can be used to test and display user-created code snippets in HTML, CSS, and JavaScript.</p>
 
 ## Screenshot
 
